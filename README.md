@@ -29,9 +29,9 @@
 ---
 
 ### 📜 자격증
-- 📊 빅데이터분석기사 (2025.07) - 한국데이터산업진흥원 *(예정)*
-- 💻 정보처리기사 (2025.06) - 한국산업인력공단 *(예정)*
-- 💻 정보처리산업기사 (2025.06) - 한국산업인력공단 *(예정)*
+- 📊 빅데이터분석기사 (2025.07) - 한국데이터산업진흥원
+- 💻 정보처리기사 (2025.06) - 한국산업인력공단
+- 💻 정보처리산업기사 (2025.06) - 한국산업인력공단
 - 🛠️ SQLD (SQL 개발자) (2024.09) - 한국데이터산업진흥원
 - 📈 ADsP (데이터분석 준전문가) (2024.06) - 한국데이터산업진흥원
 - 🖥️ 사무자동화산업기사 (2024.06) - 한국산업인력공단
@@ -41,3 +41,29 @@
 
 ### 📫 연락처
 - ✉️ Email: **bylhw1234@gmail.com**
+
+### 💻 사용 기술 (Tech Stack)
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-00B200?style=flat-square&logo=lightgbm&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/CatBoost-9A1C1C?style=flat-square&logo=catboost&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</div>
