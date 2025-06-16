@@ -25,6 +25,7 @@
 - 🏆 오렌지3 활용 교내 AI 경진대회 1위 (대상) - 당뇨병 예측 (이진분류)
 -  [데이콘 기업 성공 확률 예측 해커톤 (개인) - **4위 / 572명** (상위 0.7%)](https://dacon.io/competitions/official/236475/leaderboard)
 -  [한국지능정보사회진흥원(NIA)/데이콘 건설용 자갈 암석 종류 분류 AI 경진대회 (개인) - **30위 / 342명** (상위 8.77%)](https://dacon.io/competitions/official/236471/leaderboard)
+-  [데이콘 HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 (개인) - **94위 / 748명** (상위 12.57%)](https://dacon.io/competitions/official/236471/leaderboard)
 ---
 
 ### 📜 자격증
