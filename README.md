@@ -29,6 +29,8 @@
   **비전/이미지분류/F1-macro**
 -  [데이콘 HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 (개인) - **94위 / 748명** (상위 12.57%)](https://dacon.io/competitions/official/236493/leaderboard)
   **비전/이미지분류/Log-loss**
+   [데이콘 갑상선암 진단 분류 해커톤 : 양성과 악성, AI 정확히 구분하라!(개인) - **19 / 661** (상위 2.87%)](https://dacon.io/competitions/official/236488/leaderboard)
+   **정형/분류/F1 Score** 
 ---
 
 ### 📜 자격증
