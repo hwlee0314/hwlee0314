@@ -16,34 +16,34 @@
 ### 🏆 활동 내역
 
 #### 📅 2024년
-- 🥉 제1회 교내 인공지능 모델링 경진대회 4위 (우수상) - 갑상선질환 예측 (이진분류)
-- 🥇 제2회 교내 인공지능 모델링 경진대회 1위 (최우수상) - 고객대출등급 예측 (다중분류)
-- 🥇 제2회 교내 인공지능 모델링 경진대회 1위 (최우수상) - 당뇨병 예측 (이진분류)
+- 제1회 교내 인공지능 모델링 경진대회 4위 - 갑상선질환 예측 (이진분류) 🥉  
+- 제2회 교내 인공지능 모델링 경진대회 1위 - 고객대출등급 예측 (다중분류) 🏆  
+- 제2회 교내 인공지능 모델링 경진대회 1위 - 당뇨병 예측 (이진분류) 🏆  
 
 #### 📅 2025년
-- 🏆 오렌지3 활용 교내 AI 경진대회 1위 (대상) - 당뇨병 예측 (이진분류)
-- [데이콘 - 기업 성공 확률 예측 해커톤 (개인) - **4위 / 572명** (상위 0.7%)](https://dacon.io/competitions/official/236475/leaderboard)  
+- 오렌지3 활용 교내 AI 경진대회 1위 - 당뇨병 예측 (이진분류) 🏆  
+- [데이콘 - 기업 성공 확률 예측 해커톤 (개인) - **4위 / 572명** (상위 0.7%)](https://dacon.io/competitions/official/236475/leaderboard)   
   **정형 / 회귀 / Weight MAE**
-- [NIA / 데이콘 - 건설용 자갈 암석 종류 분류 대회 (개인) - **30위 / 342명** (상위 8.77%)](https://dacon.io/competitions/official/236471/leaderboard)  
+- [NIA / 데이콘 - 건설용 자갈 암석 분류 대회 (개인) - **30위 / 342명** (상위 8.77%)](https://dacon.io/competitions/official/236471/leaderboard)  
   **비전 / 이미지 분류 / F1-macro**
 - [헥토 그룹 / 데이콘 - Hecto AI Challenge 2025 상반기 (개인) - **94위 / 748명** (상위 12.57%)](https://dacon.io/competitions/official/236493/leaderboard)  
   **비전 / 이미지 분류 / Log-loss**
-- [데이콘 - 갑상선암 진단 분류 해커톤 (개인) - **19위 / 661명** (상위 2.87%)](https://dacon.io/competitions/official/236488/leaderboard)  
+- [데이콘 - 갑상선암 진단 분류 해커톤 (개인) - **19위 / 661명** (상위 2.87%)](https://dacon.io/competitions/official/236488/leaderboard)   
   **정형 / 분류 / F1 Score**
-- 🏆 [데이콘 - 사이버 공격 유형 예측 해커톤 (개인) - **최종 3위 / 213명** (상위 1.41%)](https://dacon.io/competitions/official/236502/leaderboard)  
+- [데이콘 - 사이버 공격 유형 예측 해커톤 (개인) - **최종 3위 / 213명** (상위 1.41%)](https://dacon.io/competitions/official/236502/leaderboard) 🏆  
   **정형 / 분류 / Macro F1 Score**
-- [Kaggle - Predict the Introverts from the Extroverts (개인) - **40 / 4329** (상위 0.92%)](https://www.kaggle.com/competitions/playground-series-s5e7/leaderboard)  
+- [Kaggle - Predict the Introverts from the Extroverts (개인) - **40 / 4329** (상위 0.92%)](https://www.kaggle.com/competitions/playground-series-s5e7/leaderboard)   
   **정형 / 분류 / F1 Score**
 
 ---
 
 ### 📜 자격증
-- 빅데이터분석기사 (2025.07) - 한국데이터산업진흥원
-- 정보처리산업기사 (2025.06) - 한국산업인력공단
-- SQLD (SQL 개발자) (2024.09) - 한국데이터산업진흥원
-- ADsP (데이터분석 준전문가) (2024.06) - 한국데이터산업진흥원
-- 사무자동화산업기사 (2024.06) - 한국산업인력공단
-- 컴퓨터활용능력 1급 (2022.03) - 대한상공회의소
+- 빅데이터분석기사 (2025.07) - 한국데이터산업진흥원  
+- 정보처리산업기사 (2025.06) - 한국산업인력공단  
+- SQLD (SQL 개발자) (2024.09) - 한국데이터산업진흥원  
+- ADsP (데이터분석 준전문가) (2024.06) - 한국데이터산업진흥원  
+- 사무자동화산업기사 (2024.06) - 한국산업인력공단  
+- 컴퓨터활용능력 1급 (2022.03) - 대한상공회의소  
 
 ---
 
