@@ -34,7 +34,7 @@
   **정형 / 분류 / Macro F1 Score**
 - [[Kaggle] - Predict the Introverts from the Extroverts (개인) - **40 / 4329** (상위 0.92%)](https://www.kaggle.com/competitions/playground-series-s5e7/leaderboard)   
   **정형 / 분류 / F1 Score**
-
+- 제3회 교내 인공지능 모델링 경진대회 4위 - 캠페인 수락여부 예측 (이진분류) 🥉
 ---
 
 ### 📜 자격증
