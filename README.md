@@ -23,17 +23,17 @@
 
 #### 📅 2025년
 - 🏆 오렌지3 활용 교내 AI 경진대회 1위 (대상) - 당뇨병 예측 (이진분류)
--  [[데이콘] 기업 성공 확률 예측 해커톤 (개인) - **4위 / 572명** (상위 0.7%)](https://dacon.io/competitions/official/236475/leaderboard)
+-  [[데이콘] 기업 성공 확률 예측 해커톤 (개인) - **4위 / 572명** (상위 0.7%)](https://dacon.io/competitions/official/236475/leaderboard)  
   **정형/회귀/Weight MAE**
 -  [[한국지능정보사회진흥원(NIA) / 데이콘] 건설용 자갈 암석 종류 분류 AI 경진대회 (개인) - **30위 / 342명** (상위 8.77%)](https://dacon.io/competitions/official/236471/leaderboard)
   **비전/이미지분류/F1-macro**
--  [[헥토 그룹 / 데이콘] HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 (개인) - **94위 / 748명** (상위 12.57%)](https://dacon.io/competitions/official/236493/leaderboard)
+-  [[헥토 그룹 / 데이콘] HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회 (개인) - **94위 / 748명** (상위 12.57%)](https://dacon.io/competitions/official/236493/leaderboard)  
   **비전/이미지분류/Log-loss**
--  [[데이콘] 갑상선암 진단 분류 해커톤 : 양성과 악성, AI 정확히 구분하라!(개인) - **19위 / 661명** (상위 2.87%)](https://dacon.io/competitions/official/236488/leaderboard)
+-  [[데이콘] 갑상선암 진단 분류 해커톤 : 양성과 악성, AI 정확히 구분하라!(개인) - **19위 / 661명** (상위 2.87%)](https://dacon.io/competitions/official/236488/leaderboard)  
    **정형/분류/F1 Score**
--  🏆 [[데이콘] 사이버 공격 유형 예측 해커톤: 트래픽 속 위협을 식별하라!(개인) - **최종 3위 / 213명** (상위 1.41%)](https://dacon.io/competitions/official/236502/leaderboard)
+-  🏆 [[데이콘] 사이버 공격 유형 예측 해커톤: 트래픽 속 위협을 식별하라!(개인) - **최종 3위 / 213명** (상위 1.41%)](https://dacon.io/competitions/official/236502/leaderboard)  
    **정형/분류/Macro F1 Score**
--  [[kaggle] Predict the Introverts from the Extroverts(개인) - **40/4329** (상위 0.92%)](https://www.kaggle.com/competitions/playground-series-s5e7/leaderboard)
+-  [[kaggle] Predict the Introverts from the Extroverts(개인) - **40/4329** (상위 0.92%)](https://www.kaggle.com/competitions/playground-series-s5e7/leaderboard)  
    **정형/분류/F1 Score**
 ---
 
