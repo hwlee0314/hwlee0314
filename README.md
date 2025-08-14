@@ -33,7 +33,7 @@
   **정형 / 분류 / F1 Score**
 - [[Dacon] - 사이버 공격 유형 예측 해커톤 (개인) - **최종 3위 / 213명** (상위 1.41%)](https://dacon.io/competitions/official/236502/leaderboard) 🏆  
   **정형 / 분류 / Macro F1 Score**
-- [[Kaggle] - Predict the Introverts from the Extroverts (개인) - **40 / 4329** (상위 0.92%)](https://www.kaggle.com/competitions/playground-series-s5e7/leaderboard)   
+- [[Kaggle] - Predict the Introverts from the Extroverts (개인) - **40위 / 4329** (상위 0.92%)](https://www.kaggle.com/competitions/playground-series-s5e7/leaderboard)   
   **정형 / 분류 / F1 Score**
 - 제3회 교내 인공지능 모델링 경진대회 4위 - 캠페인 수락여부 예측 (이진분류) 🥉
 ---
