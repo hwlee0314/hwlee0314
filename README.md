@@ -37,7 +37,7 @@
   **정형 / 분류 / F1 Score**
 - 제3회 교내 인공지능 모델링 경진대회 4위 - 캠페인 수락여부 예측 (이진분류) 🥈
 - [[한국에너지공단 / Dacon] - 2025 전력사용량 예측 AI 경진대회 (개인) - **Private 19th** (상위 3%)](https://dacon.io/competitions/official/236531/leaderboard)
-- **정형 / 시계열 / SMAPE**
+  **정형 / 시계열 / SMAPE**
 ---
 
 ### 📜 자격증
