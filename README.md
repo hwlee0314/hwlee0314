@@ -36,7 +36,7 @@
 - [[Kaggle] - Predict the Introverts from the Extroverts (개인) - **Private 40th** (상위 0.92%)](https://www.kaggle.com/competitions/playground-series-s5e7/leaderboard)   
   **정형 / 분류 / F1 Score**
 - 제3회 교내 인공지능 모델링 경진대회 4위 - 캠페인 수락여부 예측 (이진분류) 🥈
-- [[한국에너지공단 / Dacon] - 2025 전력사용량 예측 AI 경진대회 (개인) - **Private 19th** (상위 3%)](https://dacon.io/competitions/official/236531/leaderboard)  
+- [[한국에너지공단 / Dacon] - 2025 전력사용량 예측 AI 경진대회 (개인) - **Private 28th** (상위 3%)](https://dacon.io/competitions/official/236531/leaderboard)  
   **정형 / 시계열 / SMAPE**
 <img width="1054" height="816" alt="236502-1-518530" src="https://github.com/user-attachments/assets/06b5e8b1-f454-4de1-bc49-744fc2ce8a82" />
 
