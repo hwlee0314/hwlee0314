@@ -23,7 +23,7 @@
 
 #### 📅 2025년
 - 오렌지3 활용 교내 AI 경진대회 1위 - 당뇨병 예측 (이진분류) 🏆  
-- [[Dacon] - 기업 성공 확률 예측 해커톤: 미래의 성공기업을 발굴하라! (개인) - **Private 4th** (상위 0.7%)](https://dacon.io/competitions/official/236475/leaderboard)   
+- [[Dacon] - 기업 성공 확률 예측 해커톤: 미래의 성공기업을 발굴하라! (개인) - **Private 4th** (상위 0.7%)](https://dacon.io/competitions/official/236475/leaderboard)
   **정형 / 회귀 / Weight MAE**
 - [[NIA / Dacon] - 건설용 자갈 암석 분류 대회 (개인) - **Private 30th** (상위 8.77%)](https://dacon.io/competitions/official/236471/leaderboard)
 
