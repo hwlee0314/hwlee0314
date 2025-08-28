@@ -39,7 +39,7 @@
 - [[한국에너지공단 / Dacon] - 2025 전력사용량 예측 AI 경진대회 (개인) - **Private 28th** (상위 3%)](https://dacon.io/competitions/official/236531/overview/description)  
   **정형 / 시계열 / SMAPE**
 - [[BDA / Dacon] - 데이콘 x BDA 학습자 수료 예측 AI 경진대회 (개인) - **Awards 2nd** (상위 0.72%)](https://dacon.io/competitions/official/236519/overview/description) 🏆  
-  **정형 / 분류 / F1 Macor**
+  **정형 / 분류 / F1 Macro**
 <img width="1054" height="816" alt="236502-1-518530" src="https://github.com/user-attachments/assets/06b5e8b1-f454-4de1-bc49-744fc2ce8a82" />
 
 
