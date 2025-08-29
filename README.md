@@ -40,7 +40,7 @@
   **정형 / 시계열 / SMAPE**
 - [[(사)빅데이터분석학회 / Dacon] - 데이콘 x BDA 학습자 수료 예측 AI 경진대회 (개인) - **Awards 2nd** (상위 0.72%)](https://dacon.io/competitions/official/236519/overview/description) 🏆  
   **정형 / 분류 / F1 Macro**  
-  [[Dacon] - 데이콘 Basic 스트레스 지수 예측 : 건강 데이터로 마음의 균형을 찾아라!(개인) - **Private 20th** (상위5.5%)](https://dacon.io/competitions/official/236526/overview/description)  
+- [[Dacon] - 데이콘 Basic 스트레스 지수 예측 : 건강 데이터로 마음의 균형을 찾아라!(개인) - **Private 20th** (상위5.5%)](https://dacon.io/competitions/official/236526/overview/description)  
   **정형 / 회귀 / MAE**
 <img width="1054" height="816" alt="236502-1-518530" src="https://github.com/user-attachments/assets/06b5e8b1-f454-4de1-bc49-744fc2ce8a82" />
 
