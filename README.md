@@ -38,8 +38,6 @@
 - 제3회 교내 인공지능 모델링 경진대회 4위 - 캠페인 수락여부 예측 (이진분류) 🥈
 - [[한국에너지공단 / Dacon] - 2025 전력사용량 예측 AI 경진대회 (개인) - **Private 28th** (상위 3%)](https://dacon.io/competitions/official/236531/overview/description)  
   **정형 / 시계열 / SMAPE**
-- [[(사)빅데이터분석학회 / Dacon] - 데이콘 x BDA 학습자 수료 예측 AI 경진대회 (개인) - **Awards 2nd** (상위 0.72%)](https://dacon.io/competitions/official/236519/overview/description) 🏆  
-  **정형 / 분류 / F1 Macro**  
 - [[Dacon] - 데이콘 Basic 스트레스 지수 예측 : 건강 데이터로 마음의 균형을 찾아라!(개인) - **Private 20th** (상위5.5%)](https://dacon.io/competitions/official/236526/overview/description)  
   **정형 / 회귀 / MAE**  
 - [[Dacon / (사) 한국빅데이터학회] - 데이콘 x BDA 학습자 수료 예측 AI 경진대회(개인) - **Awards 2nd** (상위 0.73%)](https://dacon.io/competitions/official/236519/overview/description) 🏆  
