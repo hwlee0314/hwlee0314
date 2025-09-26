@@ -31,7 +31,7 @@
   **비전 / 이미지 분류 / Log-loss**
 - [[Dacon] - 갑상선암 진단 분류 해커톤 (개인) - **Private 19th** (상위 2.87%)](https://dacon.io/competitions/official/236488/overview/description)   
   **정형 / 분류 / F1 Score**
-- [[Dacon] - 사이버 공격 유형 예측 해커톤 (개인) - **Awards 3rd** (상위 1.41%)](https://dacon.io/competitions/official/236502/overview/description) 🏆  
+- [[Dacon] - 사이버 공격 유형 예측 해커톤 (개인) - **Awards 3rd**](https://dacon.io/competitions/official/236502/overview/description) 🏆  
   **정형 / 분류 / Macro F1 Score**
 - [[Kaggle] - Predict the Introverts from the Extroverts (개인) - **Private 40th** (상위 0.92%)](https://www.kaggle.com/competitions/playground-series-s5e7/overview/description)   
   **정형 / 분류 / F1 Score**
@@ -40,7 +40,7 @@
   **정형 / 시계열 / SMAPE**
 - [[Dacon] - 데이콘 Basic 스트레스 지수 예측 : 건강 데이터로 마음의 균형을 찾아라!(개인) - **Private 20th** (상위5.5%)](https://dacon.io/competitions/official/236526/overview/description)  
   **정형 / 회귀 / MAE**  
-- [[Dacon / (사) 한국빅데이터학회] - 데이콘 x BDA 학습자 수료 예측 AI 경진대회(개인) - **Awards 2nd** (상위 0.73%)](https://dacon.io/competitions/official/236519/overview/description) 🏆  
+- [[Dacon / (사) 한국빅데이터학회] - 데이콘 x BDA 학습자 수료 예측 AI 경진대회(개인) - **Awards 2nd**](https://dacon.io/competitions/official/236519/overview/description) 🏆  
   **정형 / 분류 / F1 Score**
 <img width="1054" height="816" alt="236502-1-518530" src="https://github.com/user-attachments/assets/06b5e8b1-f454-4de1-bc49-744fc2ce8a82" />
 
