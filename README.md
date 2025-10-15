@@ -17,32 +17,40 @@
 ### 🏆 활동 내역
 
 #### 📅 2024년
-- 제1회 교내 인공지능 모델링 경진대회 4위 - 갑상선질환 예측 (이진분류) 🥈  
-- 제2회 교내 인공지능 모델링 경진대회 1위 - 고객대출등급 예측 (다중분류) 🏆  
-- 제2회 교내 인공지능 모델링 경진대회 1위 - 당뇨병 예측 (이진분류) 🏆  
+- [제1회 교내 인공지능 모델링 경진대회(갑상선질환 예측) **Private 4th**](https://www.kaggle.com/competitions/scu-ai-competition-202401) 🥈  
+  **정형 / 분류 / F1 Score** 
+- [제2회 교내 인공지능 모델링 경진대회(고객대출등급 예측) **Private 1st**](https://www.kaggle.com/t/71f39af9b12e4e21a1af0ae81b4ef437) 🏆  
+  **정형 / 분류 / F1 Macro** 
+- [제2회 교내 인공지능 모델링 경진대회(당뇨병 예측) **Private 1st**](https://www.kaggle.com/t/926f65fe01d04957b0c0b5846626f768) 🏆  
+  **정형 / 분류 / F1 Score**
 
 #### 📅 2025년
-- 오렌지3 활용 교내 AI 경진대회 1위 - 당뇨병 예측 (이진분류) 🏆  
+- [오렌지3 활용 교내 AI 경진대회(당뇨병 예측) **Private 1st**](https://www.kaggle.com/t/3fa114d5545b48b499f1c3f80070042c) 🏆  
+  **정형 / 분류 / F1 Macro** 
 - [[Dacon] - 기업 성공 확률 예측 해커톤: 미래의 성공기업을 발굴하라! (개인) - **Private 4th** (상위 0.7%)](https://dacon.io/competitions/official/236475/overview/description)  
   **정형 / 회귀 / Weight MAE**
-- [[NIA / Dacon] - 건설용 자갈 암석 분류 대회 (개인) - **Private 30th** (상위 8.77%)](https://dacon.io/competitions/official/236471/overview/description)  
-  **비전 / 이미지 분류 / F1-macro**
-- [[헥토 그룹 / Dacon] - Hecto AI Challenge 2025 상반기 (개인) - **Private 94th** (상위 12.57%)](https://dacon.io/competitions/official/236493/overview/description)  
+- [[Dacon / NIA] - 건설용 자갈 암석 분류 대회 (개인) - **Private 30th** (상위 8.77%)](https://dacon.io/competitions/official/236471/overview/description)  
+  **비전 / 이미지 분류 / F1 Macro**
+- [[Dacon / 헥토그룹] - Hecto AI Challenge 2025 상반기 (개인) - **Private 94th** (상위 12.57%)](https://dacon.io/competitions/official/236493/overview/description)  
   **비전 / 이미지 분류 / Log-loss**
 - [[Dacon] - 갑상선암 진단 분류 해커톤 (개인) - **Private 19th** (상위 2.87%)](https://dacon.io/competitions/official/236488/overview/description)   
   **정형 / 분류 / F1 Score**
 - [[Dacon] - 사이버 공격 유형 예측 해커톤 (개인) - **Awards 3rd**](https://dacon.io/competitions/official/236502/overview/description) 🏆  
-  **정형 / 분류 / Macro F1 Score**
+  **정형 / 분류 / F1 Macro**
 - [[Kaggle] - Predict the Introverts from the Extroverts (개인) - **Private 40th** (상위 0.92%)](https://www.kaggle.com/competitions/playground-series-s5e7/overview/description)   
   **정형 / 분류 / F1 Score**
-- 제3회 교내 인공지능 모델링 경진대회 4위 - 캠페인 수락여부 예측 (이진분류) 🥈
-- [[한국에너지공단 / Dacon] - 2025 전력사용량 예측 AI 경진대회 (개인) - **Private 28th** (상위 3%)](https://dacon.io/competitions/official/236531/overview/description)  
+- [제3회 교내 인공지능 모델링 경진대회 4위 - 캠페인 수락여부 예측 - **Private 2nd**](https://www.kaggle.com/t/6f4c86249cb040f5bbb88255d8585bcf)🥈  
+  **정형 / 분류 / F1 Macro**
+- [[Dacon / 한국에너지공단] - 2025 전력사용량 예측 AI 경진대회 (개인) - **Private 28th** (상위 3%)](https://dacon.io/competitions/official/236531/overview/description)  
   **정형 / 시계열 / SMAPE**
 - [[Dacon] - 데이콘 Basic 스트레스 지수 예측 : 건강 데이터로 마음의 균형을 찾아라!(개인) - **Private 20th** (상위5.5%)](https://dacon.io/competitions/official/236526/overview/description)  
   **정형 / 회귀 / MAE**  
 - [[Dacon / (사) 한국빅데이터학회] - 데이콘 x BDA 학습자 수료 예측 AI 경진대회(개인) - **Awards 2nd**](https://dacon.io/competitions/official/236519/overview/description) 🏆  
   **정형 / 분류 / F1 Score**
-
+- [[Dacon / 해양수산부] - 2025.10 스마트 해운물류 x AI 미션 챌린지 : 이상신호 감지 기반 비정상 작동 진단 (단체) - **Private 43th** (상위 8.7%)](https://dacon.io/competitions/official/236590/overview/description)  
+  **정형 / 분류 / F1 Macro**
+- [[Dacon / Toss] - 토스 NEXT ML CHALLENGE : 광고 클릭 예측(CTR) 모델 개발 (개인) - **Private 45th** (상위 6.3%)](https://dacon.io/competitions/official/236575/overview/description)  
+  **정형 / 분류 / CTR**
 
 <table>
   <tr>
