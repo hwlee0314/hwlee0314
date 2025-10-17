@@ -17,15 +17,15 @@
 ### 🏆 활동 내역
 
 #### 📅 2024년
-- [제1회 교내 인공지능 모델링 경진대회(갑상선질환 예측) **Private 4th**](https://www.kaggle.com/competitions/scu-ai-competition-202401) 🥈  
+- [제1회 교내 인공지능 모델링 경진대회(갑상선질환 예측) **Private 4th**] 🥈  
   **정형 / 분류 / F1 Score** 
-- [제2회 교내 인공지능 모델링 경진대회(고객대출등급 예측) **Private 1st**](https://www.kaggle.com/t/71f39af9b12e4e21a1af0ae81b4ef437) 🏆  
+- [제2회 교내 인공지능 모델링 경진대회(고객대출등급 예측) **Private 1st**] 🏆  
   **정형 / 분류 / F1 Macro** 
-- [제2회 교내 인공지능 모델링 경진대회(당뇨병 예측) **Private 1st**](https://www.kaggle.com/t/926f65fe01d04957b0c0b5846626f768) 🏆  
+- [제2회 교내 인공지능 모델링 경진대회(당뇨병 예측) **Private 1st**] 🏆  
   **정형 / 분류 / F1 Score**
 
 #### 📅 2025년
-- [오렌지3 활용 교내 AI 경진대회(당뇨병 예측) **Private 1st**](https://www.kaggle.com/t/3fa114d5545b48b499f1c3f80070042c) 🏆  
+- [오렌지3 활용 교내 AI 경진대회(당뇨병 예측) **Private 1st**] 🏆  
   **정형 / 분류 / F1 Macro** 
 - [[Dacon] - 기업 성공 확률 예측 해커톤: 미래의 성공기업을 발굴하라! (개인) - **Private 4th** (상위 0.7%)](https://dacon.io/competitions/official/236475/overview/description)  
   **정형 / 회귀 / Weight MAE**
@@ -39,7 +39,7 @@
   **정형 / 분류 / F1 Macro**
 - [[Kaggle] - Predict the Introverts from the Extroverts (개인) - **Private 40th** (상위 0.92%)](https://www.kaggle.com/competitions/playground-series-s5e7/overview/description)   
   **정형 / 분류 / F1 Score**
-- [제3회 교내 인공지능 모델링 경진대회 4위 - 캠페인 수락여부 예측 - **Private 2nd**](https://www.kaggle.com/t/6f4c86249cb040f5bbb88255d8585bcf)🥈  
+- [제3회 교내 인공지능 모델링 경진대회 4위 - 캠페인 수락여부 예측 - **Private 2nd**]🥈  
   **정형 / 분류 / F1 Macro**
 - [[Dacon / 한국에너지공단] - 2025 전력사용량 예측 AI 경진대회 (개인) - **Private 28th** (상위 3%)](https://dacon.io/competitions/official/236531/overview/description)  
   **정형 / 시계열 / SMAPE**
