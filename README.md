@@ -1,12 +1,13 @@
 ### About Me
 인공지능과 데이터과학을 공부하고 있는 학생입니다.  
-데이콘을 비롯한 다양한 컴페티션에 꾸준히 참가하며, 부족하지만 한 걸음씩 성장하고 있습니다.  
-자격증 공부도 병행하며 이론과 실습을 함께 쌓아가고 있습니다.
+데이콘을 비롯한 다양한 컴페티션에 꾸준히 참가하며, 부족하지만 한 걸음씩 성장하고 있습니다.
 
+I'm a student studying artificial intelligence and data science. 
+I consistently participate in various competitions, including Dacon, and while I still have shortcomings, I'm growing step by step.
 ---
 
 ### 📝 관심 분야
-- 딥러닝 기반 컴퓨터 비전 (CNN 등)
+- ML
 - 자연어 처리 (NLP)
 - 분류(Classification), 회귀(Regression) 모델링
 - 시계열 데이터 분석
