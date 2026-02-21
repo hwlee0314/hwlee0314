@@ -60,6 +60,8 @@ I am a student studying artificial intelligence and data science.
 </table>
 
 ---
+### 🎓 Education
+- 강원대학교 AI융합학과 - 2028.02 졸업 예정
 
 ### 📜 자격증
 - 정보처리기사 (2025.12) - 한국산업인력공단
