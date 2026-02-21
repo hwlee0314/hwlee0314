@@ -2,6 +2,9 @@
 인공지능과 데이터과학을 공부하고 있는 학생입니다.  
 
 I am a student studying artificial intelligence and data science.
+
+---
+
 ### 📝 관심 분야
 - ML
 - 자연어 처리 (NLP)
