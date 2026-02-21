@@ -1,13 +1,7 @@
-<img src="banner.svg" width="100%" />
-
 ### About Me
 인공지능과 데이터과학을 공부하고 있는 학생입니다.  
-데이콘을 비롯한 다양한 컴페티션에 꾸준히 참가하며, 부족하지만 한 걸음씩 성장하고 있습니다.
 
-I'm a student studying artificial intelligence and data science. 
-I consistently participate in various competitions, including Dacon, and while I still have shortcomings, I'm growing step by step.
----
-
+I am a student studying artificial intelligence and data science.
 ### 📝 관심 분야
 - ML
 - 자연어 처리 (NLP)
